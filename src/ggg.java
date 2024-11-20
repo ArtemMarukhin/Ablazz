@@ -26,7 +26,6 @@ public class ggg {
         }
         System.out.printf(num1 + " " + op + " " + num2 + " = " + ans);
         System.out.printf(num1 + " " + op + " " + num2 + " = " + ans);
-        System.out.printf(num1 + " " + op + " " + num2 + " = " + ans);
     }
 }
 
